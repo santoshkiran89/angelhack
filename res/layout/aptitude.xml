@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:id="@+id/linearLayout3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+
+            <Button
+                android:id="@+id/rnpbtn"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Ratio And Proportion" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+
+        <Button
+            android:id="@+id/partbtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Partnership" />
+
+    </LinearLayout>
+  <LinearLayout
+        android:id="@+id/linearLayout4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+    <Button
+        android:id="@+id/perbtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Percentages" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+
+        <Button
+            android:id="@+id/sicibtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="SICI" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+
+        <Button
+            android:id="@+id/dtsbtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Time Speed Distance" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+
+        <Button
+            android:id="@+id/tnwbtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Time Work" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+
+        <Button
+            android:id="@+id/pncbtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Pipes cisterns" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+
+        <Button
+            android:id="@+id/lnhbtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="LCM HCF" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout9"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+
+        <Button
+            android:id="@+id/nsbtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Number System" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout10"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+
+        <Button
+            android:id="@+id/pnlbtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Profit Loss" />
+
+    </LinearLayout>
+
+</LinearLayout>

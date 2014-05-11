@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:layout_marginTop="120dp" >
+
+    <LinearLayout   
+        
+        android:id="@+id/linearLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="200dp" 
+        android:orientation="vertical"
+        android:weightSum="1">
+
+
+        <Button
+            android:id="@+id/aptitudeId"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="40dp"
+            android:layout_weight="0.5"
+            android:textSize="32dp"
+            android:text="APTITUDE" 
+            android:textColor="#397DA5"
+           />
+
+        <Button
+            android:id="@+id/verbalId"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.5"
+            android:textSize="32dp"
+            android:text="VERBAL" 
+            android:textColor="#397DA5"/>
+
+    </LinearLayout>
+
+</LinearLayout>
